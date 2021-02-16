@@ -1,5 +1,15 @@
 # lsm
 
+We tried a few approaches here.
+
+## Approach 1 — `pdfseparate` + HTML index page (current approach)
+
+```shell
+mkdir lsm && pdfseparate lsm.pdf ./lsm/page-%d.pdf
+```
+
+## Approach 2 — `pdf2htmlEX`
+
 To split the LSM PDF, we did:
 
 ```shell
