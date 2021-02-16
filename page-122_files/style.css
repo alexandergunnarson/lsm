@@ -1,0 +1,274 @@
+.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 54.5em;
+	height: 69.5em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 54.5em;
+}
+.stl_06 {
+	height: 6.95em;
+}
+.stl_ie .stl_06 {
+	height: 69.5em;
+}
+.stl_07 {
+	font-size: 0.666667em;
+	font-family: "Arial";
+	color: #FF0064;
+}
+.stl_08 {
+	line-height: 1.117188em;
+}
+.stl_09 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_09 {
+	letter-spacing: 0px;
+}
+@font-face {
+	font-family:"NTWFFV+TimesNewRomanPS-BoldMT";
+	src:url("c60a9d99-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_10 {
+	font-size: 0.791667em;
+	font-family: "NTWFFV+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_11 {
+	line-height: 1.107422em;
+}
+@font-face {
+	font-family:"FFFEGG+TimesNewRomanPSMT";
+	src:url("8b93cf01-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_12 {
+	font-size: 0.791667em;
+	font-family: "FFFEGG+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_13 {
+	letter-spacing: -0.0002em;
+}
+
+.stl_ie .stl_13 {
+	letter-spacing: -0.0019px;
+}
+@font-face {
+	font-family:"HGWSMO+MinionPro-Regular";
+	src:url("aab64ed8-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_14 {
+	font-size: 1em;
+	font-family: "HGWSMO+MinionPro-Regular";
+	color: #000000;
+}
+.stl_15 {
+	line-height: 1.007em;
+}
+@font-face {
+	font-family:"VIIWVV+TimesNewRomanPS-BoldMT";
+	src:url("f792db1d-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_16 {
+	font-size: 1em;
+	font-family: "VIIWVV+TimesNewRomanPS-BoldMT";
+	color: #686868;
+}
+.stl_17 {
+	font-size: 0.791667em;
+	font-family: "VIIWVV+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_18 {
+	letter-spacing: -0.1102em;
+}
+
+.stl_ie .stl_18 {
+	letter-spacing: -1.3953px;
+}
+.stl_19 {
+	letter-spacing: 0.0001em;
+}
+
+.stl_ie .stl_19 {
+	letter-spacing: 0.0007px;
+}
+.stl_20 {
+	letter-spacing: -0.0074em;
+}
+
+.stl_ie .stl_20 {
+	letter-spacing: -0.0933px;
+}
+.stl_21 {
+	font-size: 0.666667em;
+	font-family: "FFFEGG+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_22 {
+	letter-spacing: -0.0912em;
+}
+
+.stl_ie .stl_22 {
+	letter-spacing: -0.9725px;
+}
+.stl_23 {
+	font-size: 0.75em;
+	font-family: "FFFEGG+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_24 {
+	letter-spacing: -0.0011em;
+}
+
+.stl_ie .stl_24 {
+	letter-spacing: -0.0131px;
+}
+.stl_25 {
+	font-size: 0.708333em;
+	font-family: "NTWFFV+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_26 {
+	font-size: 0.708333em;
+	font-family: "FFFEGG+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_27 {
+	font-size: 1em;
+	font-family: "NTWFFV+TimesNewRomanPS-BoldMT";
+	color: #686868;
+}
+.stl_28 {
+	letter-spacing: 0.1137em;
+}
+
+.stl_ie .stl_28 {
+	letter-spacing: 1.8187px;
+}
+.stl_29 {
+	font-size: 0.6996em;
+	font-family: "NTWFFV+TimesNewRomanPS-BoldMT";
+	color: #686868;
+}
+.stl_30 {
+	letter-spacing: -0.0001em;
+}
+
+.stl_ie .stl_30 {
+	letter-spacing: -0.0014px;
+}
+.stl_31 {
+	font-size: 0.708333em;
+	font-family: "VIIWVV+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_32 {
+	letter-spacing: -0.1112em;
+}
+
+.stl_ie .stl_32 {
+	letter-spacing: -1.2598px;
+}
+.stl_33 {
+	letter-spacing: -0.0053em;
+}
+
+.stl_ie .stl_33 {
+	letter-spacing: -0.0605px;
+}
+.stl_34 {
+	font-size: 0.833333em;
+	font-family: "FFFEGG+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_35 {
+	letter-spacing: -0.0992em;
+}
+
+.stl_ie .stl_35 {
+	letter-spacing: -1.3222px;
+}
+.stl_36 {
+	letter-spacing: 0.0002em;
+}
+
+.stl_ie .stl_36 {
+	letter-spacing: 0.002px;
+}
+.stl_37 {
+	font-size: 0.75em;
+	font-family: "NTWFFV+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_38 {
+	letter-spacing: 0.1136em;
+}
+
+.stl_ie .stl_38 {
+	letter-spacing: 1.8172px;
+}
+.stl_39 {
+	font-size: 0.75em;
+	font-family: "VIIWVV+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_40 {
+	letter-spacing: -0.1101em;
+}
+
+.stl_ie .stl_40 {
+	letter-spacing: -1.3218px;
+}
+@font-face {
+	font-family:"OWKGPG+Arial-BoldMT";
+	src:url("77dcd506-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_41 {
+	font-size: 0.916667em;
+	font-family: "OWKGPG+Arial-BoldMT", "Times New Roman";
+	color: #000000;
+}
+.stl_42 {
+	font-size: 0.5em;
+	font-family: "HGWSMO+MinionPro-Regular";
+	color: #000000;
+}

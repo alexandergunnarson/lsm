@@ -1,0 +1,216 @@
+.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 54.5em;
+	height: 69.5em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 54.5em;
+}
+.stl_06 {
+	height: 6.95em;
+}
+.stl_ie .stl_06 {
+	height: 69.5em;
+}
+.stl_07 {
+	font-size: 0.666667em;
+	font-family: "Arial";
+	color: #FF0064;
+}
+.stl_08 {
+	line-height: 1.117188em;
+}
+.stl_09 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_09 {
+	letter-spacing: 0px;
+}
+@font-face {
+	font-family:"KKUGUH+Arial-BoldMT";
+	src:url("d4263d7c-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_10 {
+	font-size: 0.916667em;
+	font-family: "KKUGUH+Arial-BoldMT", "Times New Roman";
+	color: #000000;
+}
+.stl_11 {
+	letter-spacing: 0.0001em;
+}
+
+.stl_ie .stl_11 {
+	letter-spacing: 0.0019px;
+}
+@font-face {
+	font-family:"CSLREO+ArialMT";
+	src:url("ae345fdf-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_12 {
+	font-size: 0.916667em;
+	font-family: "CSLREO+ArialMT";
+	color: #000000;
+}
+.stl_13 {
+	letter-spacing: -0.0001em;
+}
+
+.stl_ie .stl_13 {
+	letter-spacing: -0.0018px;
+}
+@font-face {
+	font-family:"SFSIEP+Arial-BoldItalicMT";
+	src:url("e5d7575d-0003-0000-0000-000000000000.woff") format("woff");
+}
+.stl_14 {
+	font-size: 0.916667em;
+	font-family: "SFSIEP+Arial-BoldItalicMT", "Times New Roman";
+	color: #000000;
+}
+@font-face {
+	font-family:"SAOEKD+Arial-ItalicMT";
+	src:url("8155b46f-0002-0000-0000-000000000000.woff") format("woff");
+}
+.stl_15 {
+	font-size: 0.916667em;
+	font-family: "SAOEKD+Arial-ItalicMT", "Times New Roman";
+	color: #000000;
+}
+.stl_16 {
+	letter-spacing: -0.0002em;
+}
+
+.stl_ie .stl_16 {
+	letter-spacing: -0.0027px;
+}
+@font-face {
+	font-family:"BDIFQN+ArialMT";
+	src:url("a008c1fb-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_17 {
+	font-size: 0.916667em;
+	font-family: "BDIFQN+ArialMT";
+	color: #000000;
+}
+@font-face {
+	font-family:"QRNVPC+MinionPro-Regular";
+	src:url("34e62977-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_18 {
+	font-size: 1em;
+	font-family: "QRNVPC+MinionPro-Regular";
+	color: #000000;
+}
+.stl_19 {
+	line-height: 1.007em;
+}
+@font-face {
+	font-family:"DOFEGB+TimesNewRomanPSMT";
+	src:url("2afb2bc7-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_20 {
+	font-size: 1em;
+	font-family: "DOFEGB+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_21 {
+	line-height: 1.107422em;
+}
+@font-face {
+	font-family:"QJOUFI+TimesNewRomanPS-BoldMT";
+	src:url("5eef18dc-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_22 {
+	font-size: 1em;
+	font-family: "QJOUFI+TimesNewRomanPS-BoldMT";
+	color: #686868;
+}
+.stl_23 {
+	letter-spacing: -0.0009em;
+}
+
+.stl_ie .stl_23 {
+	letter-spacing: -0.0148px;
+}
+.stl_24 {
+	letter-spacing: -0.0299em;
+}
+
+.stl_ie .stl_24 {
+	letter-spacing: -0.4387px;
+}
+.stl_25 {
+	letter-spacing: -0.0301em;
+}
+
+.stl_ie .stl_25 {
+	letter-spacing: -0.4413px;
+}
+.stl_26 {
+	letter-spacing: -0.03em;
+}
+
+.stl_ie .stl_26 {
+	letter-spacing: -0.4393px;
+}
+.stl_27 {
+	font-size: 0.6996em;
+	font-family: "QJOUFI+TimesNewRomanPS-BoldMT";
+	color: #686868;
+}
+.stl_28 {
+	letter-spacing: -0.0054em;
+}
+
+.stl_ie .stl_28 {
+	letter-spacing: -0.0865px;
+}
+.stl_29 {
+	letter-spacing: -0.0093em;
+}
+
+.stl_ie .stl_29 {
+	letter-spacing: -0.0865px;
+}
+.stl_30 {
+	font-size: 0.5em;
+	font-family: "QRNVPC+MinionPro-Regular";
+	color: #000000;
+}

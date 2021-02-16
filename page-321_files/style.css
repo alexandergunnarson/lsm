@@ -1,0 +1,281 @@
+.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 54.5em;
+	height: 69.5em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 54.5em;
+}
+.stl_06 {
+	height: 6.95em;
+}
+.stl_ie .stl_06 {
+	height: 69.5em;
+}
+.stl_07 {
+	font-size: 0.666667em;
+	font-family: "Arial";
+	color: #FF0064;
+}
+.stl_08 {
+	line-height: 1.117188em;
+}
+.stl_09 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_09 {
+	letter-spacing: 0px;
+}
+@font-face {
+	font-family:"EQKDNW+TimesNewRomanPS-BoldMT";
+	src:url("e9cd0690-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_10 {
+	font-size: 0.75em;
+	font-family: "EQKDNW+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_11 {
+	line-height: 1.107422em;
+}
+@font-face {
+	font-family:"RGHDIJ+TimesNewRomanPSMT";
+	src:url("de8d6c74-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_12 {
+	font-size: 0.75em;
+	font-family: "RGHDIJ+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_13 {
+	letter-spacing: -0.0001em;
+}
+
+.stl_ie .stl_13 {
+	letter-spacing: -0.001px;
+}
+@font-face {
+	font-family:"SIVWBC+TimesNewRomanPS-BoldMT";
+	src:url("5cdd68c6-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_14 {
+	font-size: 0.75em;
+	font-family: "SIVWBC+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_15 {
+	letter-spacing: 0.0001em;
+}
+
+.stl_ie .stl_15 {
+	letter-spacing: 0.0007px;
+}
+@font-face {
+	font-family:"STMCPJ+MinionPro-Regular";
+	src:url("eb1532cc-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_16 {
+	font-size: 1em;
+	font-family: "STMCPJ+MinionPro-Regular";
+	color: #000000;
+}
+.stl_17 {
+	line-height: 1.007em;
+}
+.stl_18 {
+	font-size: 1em;
+	font-family: "SIVWBC+TimesNewRomanPS-BoldMT";
+	color: #686868;
+}
+.stl_19 {
+	font-size: 0.6996em;
+	font-family: "EQKDNW+TimesNewRomanPS-BoldMT";
+	color: #686868;
+}
+.stl_20 {
+	-o-transform: scale(1,1.008128);
+	-webkit-transform: scale(1,1.008128);
+	-moz-transform: scale(1,1.008128);
+	transform: scale(1,1.008128);
+	-o-transform-origin: top left;
+	-webkit-transform-origin: top left;
+	-moz-webkit-transform-origin: top left;
+	-transform-origin: top left;
+	-ms-transform: matrix(1,0,0,1.008128,0,-0);
+	-ms-transform-origin: top left;
+}
+@font-face {
+	font-family:"LHRQPE+MyriadPro-Bold";
+	src:url("78ee1b46-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_21 {
+	font-size: 0.583392em;
+	font-family: "LHRQPE+MyriadPro-Bold", "Times New Roman";
+	color: #000000;
+}
+.stl_22 {
+	line-height: 0.711em;
+}
+@font-face {
+	font-family:"RROACF+TimesNewRomanPSMT";
+	src:url("f217aed7-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_23 {
+	font-size: 0.75em;
+	font-family: "RROACF+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_24 {
+	letter-spacing: -0.0002em;
+}
+
+.stl_ie .stl_24 {
+	letter-spacing: -0.0018px;
+}
+.stl_25 {
+	letter-spacing: -0.0013em;
+}
+
+.stl_ie .stl_25 {
+	letter-spacing: -0.0153px;
+}
+.stl_26 {
+	font-size: 0.833333em;
+	font-family: "RGHDIJ+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_27 {
+	letter-spacing: -0.0912em;
+}
+
+.stl_ie .stl_27 {
+	letter-spacing: -1.2154px;
+}
+.stl_28 {
+	font-size: 0.616667em;
+	font-family: "EQKDNW+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_29 {
+	font-size: 0.616667em;
+	font-family: "RGHDIJ+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_30 {
+	font-size: 0.616667em;
+	font-family: "SIVWBC+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_31 {
+	letter-spacing: -0.1102em;
+}
+
+.stl_ie .stl_31 {
+	letter-spacing: -1.0869px;
+}
+@font-face {
+	font-family:"SOKDJV+TimesNewRomanPS-ItalicMT";
+	src:url("b44974a8-0002-0000-0000-000000000000.woff") format("woff");
+}
+.stl_32 {
+	font-size: 1em;
+	font-family: "SOKDJV+TimesNewRomanPS-ItalicMT", "Times New Roman";
+	color: #686868;
+}
+.stl_33 {
+	-o-transform: scale(1,0.9768773);
+	-webkit-transform: scale(1,0.9768773);
+	-moz-transform: scale(1,0.9768773);
+	transform: scale(1,0.9768773);
+	-o-transform-origin: top left;
+	-webkit-transform-origin: top left;
+	-moz-webkit-transform-origin: top left;
+	-transform-origin: top left;
+	-ms-transform: matrix(1,0,0,0.9768773,0,-0);
+	-ms-transform-origin: top left;
+}
+.stl_34 {
+	font-size: 0.573656em;
+	font-family: "LHRQPE+MyriadPro-Bold", "Times New Roman";
+	color: #000000;
+}
+.stl_35 {
+	font-size: 0.616667em;
+	font-family: "RROACF+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_36 {
+	letter-spacing: -0.0038em;
+}
+
+.stl_ie .stl_36 {
+	letter-spacing: -0.05px;
+}
+.stl_37 {
+	font-size: 0.583em;
+	font-family: "SOKDJV+TimesNewRomanPS-ItalicMT", "Times New Roman";
+	color: #000000;
+}
+.stl_38 {
+	letter-spacing: -0.0045em;
+}
+
+.stl_ie .stl_38 {
+	letter-spacing: -0.0348px;
+}
+.stl_39 {
+	font-size: 0.833333em;
+	font-family: "SOKDJV+TimesNewRomanPS-ItalicMT", "Times New Roman";
+	color: #000000;
+}
+@font-face {
+	font-family:"CHWVIJ+Arial-BoldMT";
+	src:url("7f6fdd5c-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_40 {
+	font-size: 0.916667em;
+	font-family: "CHWVIJ+Arial-BoldMT", "Times New Roman";
+	color: #000000;
+}
+.stl_41 {
+	font-size: 0.5em;
+	font-family: "STMCPJ+MinionPro-Regular";
+	color: #000000;
+}

@@ -1,0 +1,236 @@
+.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 54.5em;
+	height: 69.5em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 54.5em;
+}
+.stl_06 {
+	height: 6.95em;
+}
+.stl_ie .stl_06 {
+	height: 69.5em;
+}
+.stl_07 {
+	font-size: 0.666667em;
+	font-family: "Arial";
+	color: #FF0064;
+}
+.stl_08 {
+	line-height: 1.117188em;
+}
+.stl_09 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_09 {
+	letter-spacing: 0px;
+}
+@font-face {
+	font-family:"NDMNJA+Arial-BoldMT";
+	src:url("795840d3-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_10 {
+	font-size: 1.5em;
+	font-family: "NDMNJA+Arial-BoldMT";
+	color: #686868;
+}
+@font-face {
+	font-family:"KORLIQ+MinionPro-Bold";
+	src:url("68d37460-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_11 {
+	font-size: 0.666667em;
+	font-family: "KORLIQ+MinionPro-Bold";
+	color: #FFFFFF;
+}
+.stl_12 {
+	line-height: 0.958em;
+}
+.stl_13 {
+	letter-spacing: -0.0097em;
+}
+
+.stl_ie .stl_13 {
+	letter-spacing: -0.1031px;
+}
+.stl_14 {
+	letter-spacing: 0.001em;
+}
+
+.stl_ie .stl_14 {
+	letter-spacing: 0.0107px;
+}
+.stl_15 {
+	letter-spacing: -0.022em;
+}
+
+.stl_ie .stl_15 {
+	letter-spacing: -0.2346px;
+}
+.stl_16 {
+	letter-spacing: -0.0057em;
+}
+
+.stl_ie .stl_16 {
+	letter-spacing: -0.0604px;
+}
+.stl_17 {
+	letter-spacing: 0.0018em;
+}
+
+.stl_ie .stl_17 {
+	letter-spacing: 0.0192px;
+}
+.stl_18 {
+	letter-spacing: 0.0015em;
+}
+
+.stl_ie .stl_18 {
+	letter-spacing: 0.016px;
+}
+.stl_19 {
+	letter-spacing: -0.0028em;
+}
+
+.stl_ie .stl_19 {
+	letter-spacing: -0.0299px;
+}
+.stl_20 {
+	letter-spacing: 0.0005em;
+}
+
+.stl_ie .stl_20 {
+	letter-spacing: 0.0053px;
+}
+.stl_21 {
+	letter-spacing: -0.0026em;
+}
+
+.stl_ie .stl_21 {
+	letter-spacing: -0.0277px;
+}
+.stl_22 {
+	letter-spacing: 0.0024em;
+}
+
+.stl_ie .stl_22 {
+	letter-spacing: 0.0256px;
+}
+.stl_23 {
+	letter-spacing: 0.0003em;
+}
+
+.stl_ie .stl_23 {
+	letter-spacing: 0.003px;
+}
+.stl_24 {
+	letter-spacing: -0.0103em;
+}
+
+.stl_ie .stl_24 {
+	letter-spacing: -0.1097px;
+}
+.stl_25 {
+	letter-spacing: 0.0007em;
+}
+
+.stl_ie .stl_25 {
+	letter-spacing: 0.008px;
+}
+.stl_26 {
+	letter-spacing: 0.0009em;
+}
+
+.stl_ie .stl_26 {
+	letter-spacing: 0.0093px;
+}
+.stl_27 {
+	letter-spacing: 0.0027em;
+}
+
+.stl_ie .stl_27 {
+	letter-spacing: 0.0284px;
+}
+.stl_28 {
+	letter-spacing: 0.0025em;
+}
+
+.stl_ie .stl_28 {
+	letter-spacing: 0.0267px;
+}
+.stl_29 {
+	letter-spacing: -0.0034em;
+}
+
+.stl_ie .stl_29 {
+	letter-spacing: -0.0367px;
+}
+.stl_30 {
+	letter-spacing: -0.0036em;
+}
+
+.stl_ie .stl_30 {
+	letter-spacing: -0.0379px;
+}
+.stl_31 {
+	font-size: 0.916667em;
+	font-family: "NDMNJA+Arial-BoldMT";
+	color: #010101;
+}
+.stl_32 {
+	letter-spacing: -0.0002em;
+}
+
+.stl_ie .stl_32 {
+	letter-spacing: -0.0022px;
+}
+@font-face {
+	font-family:"QQBLLS+MinionPro-Regular";
+	src:url("5a94fc4c-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_33 {
+	font-size: 0.5em;
+	font-family: "QQBLLS+MinionPro-Regular";
+	color: #000000;
+}
+.stl_34 {
+	line-height: 1.007em;
+}

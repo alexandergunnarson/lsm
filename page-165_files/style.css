@@ -1,0 +1,218 @@
+.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 54.5em;
+	height: 69.5em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 54.5em;
+}
+.stl_06 {
+	height: 6.95em;
+}
+.stl_ie .stl_06 {
+	height: 69.5em;
+}
+.stl_07 {
+	font-size: 0.666667em;
+	font-family: "Arial";
+	color: #FF0064;
+}
+.stl_08 {
+	line-height: 1.117188em;
+}
+.stl_09 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_09 {
+	letter-spacing: 0px;
+}
+@font-face {
+	font-family:"NEBDNS+TimesNewRomanPS-BoldMT";
+	src:url("1fefe460-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_10 {
+	font-size: 0.75em;
+	font-family: "NEBDNS+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_11 {
+	line-height: 1.107422em;
+}
+@font-face {
+	font-family:"HJCKAF+TimesNewRomanPSMT";
+	src:url("28ec7af1-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_12 {
+	font-size: 0.75em;
+	font-family: "HJCKAF+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_13 {
+	letter-spacing: -0.0002em;
+}
+
+.stl_ie .stl_13 {
+	letter-spacing: -0.0018px;
+}
+@font-face {
+	font-family:"IKAOEP+TimesNewRomanPS-BoldMT";
+	src:url("3794ba03-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_14 {
+	font-size: 1em;
+	font-family: "IKAOEP+TimesNewRomanPS-BoldMT";
+	color: #686868;
+}
+.stl_15 {
+	font-size: 0.6996em;
+	font-family: "NEBDNS+TimesNewRomanPS-BoldMT";
+	color: #686868;
+}
+@font-face {
+	font-family:"GFVURD+MinionPro-Regular";
+	src:url("a70653ab-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_16 {
+	font-size: 1em;
+	font-family: "GFVURD+MinionPro-Regular";
+	color: #000000;
+}
+.stl_17 {
+	line-height: 1.007em;
+}
+.stl_18 {
+	font-size: 0.75em;
+	font-family: "IKAOEP+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_19 {
+	letter-spacing: -0.0001em;
+}
+
+.stl_ie .stl_19 {
+	letter-spacing: -0.001px;
+}
+.stl_20 {
+	letter-spacing: -0.1102em;
+}
+
+.stl_ie .stl_20 {
+	letter-spacing: -1.3218px;
+}
+.stl_21 {
+	letter-spacing: 0.0001em;
+}
+
+.stl_ie .stl_21 {
+	letter-spacing: 0.0007px;
+}
+@font-face {
+	font-family:"DCFGAP+TimesNewRomanPSMT";
+	src:url("9b603a11-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_22 {
+	font-size: 0.75em;
+	font-family: "DCFGAP+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_23 {
+	letter-spacing: -0.0013em;
+}
+
+.stl_ie .stl_23 {
+	letter-spacing: -0.0153px;
+}
+.stl_24 {
+	letter-spacing: -0.005em;
+}
+
+.stl_ie .stl_24 {
+	letter-spacing: -0.06px;
+}
+.stl_25 {
+	letter-spacing: -0.0099em;
+}
+
+.stl_ie .stl_25 {
+	letter-spacing: -0.1185px;
+}
+.stl_26 {
+	font-size: 0.833333em;
+	font-family: "HJCKAF+TimesNewRomanPSMT";
+	color: #000000;
+}
+.stl_27 {
+	letter-spacing: 0.0002em;
+}
+
+.stl_ie .stl_27 {
+	letter-spacing: 0.0022px;
+}
+.stl_28 {
+	font-size: 0.833333em;
+	font-family: "NEBDNS+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_29 {
+	font-size: 0.833333em;
+	font-family: "IKAOEP+TimesNewRomanPS-BoldMT";
+	color: #000000;
+}
+.stl_30 {
+	letter-spacing: -0.0912em;
+}
+
+.stl_ie .stl_30 {
+	letter-spacing: -1.2154px;
+}
+@font-face {
+	font-family:"ASEGHW+Arial-BoldMT";
+	src:url("914a07de-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_31 {
+	font-size: 0.916667em;
+	font-family: "ASEGHW+Arial-BoldMT", "Times New Roman";
+	color: #000000;
+}
+.stl_32 {
+	font-size: 0.5em;
+	font-family: "GFVURD+MinionPro-Regular";
+	color: #000000;
+}

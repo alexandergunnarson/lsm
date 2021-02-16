@@ -1,0 +1,238 @@
+.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 54.5em;
+	height: 69.5em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 54.5em;
+}
+.stl_06 {
+	height: 6.95em;
+}
+.stl_ie .stl_06 {
+	height: 69.5em;
+}
+.stl_07 {
+	font-size: 0.666667em;
+	font-family: "Arial";
+	color: #FF0064;
+}
+.stl_08 {
+	line-height: 1.117188em;
+}
+.stl_09 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_09 {
+	letter-spacing: 0px;
+}
+@font-face {
+	font-family:"DLALPP+Arial-BoldMT";
+	src:url("6148aa4e-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_10 {
+	font-size: 1.416667em;
+	font-family: "DLALPP+Arial-BoldMT";
+	color: #686868;
+}
+.stl_11 {
+	letter-spacing: -0.0007em;
+}
+
+.stl_ie .stl_11 {
+	letter-spacing: -0.0163px;
+}
+.stl_12 {
+	font-size: 1em;
+	font-family: "DLALPP+Arial-BoldMT";
+	color: #000000;
+}
+.stl_13 {
+	letter-spacing: 0.01em;
+}
+
+.stl_ie .stl_13 {
+	letter-spacing: 0.1605px;
+}
+@font-face {
+	font-family:"CSPRDA+ArialMT";
+	src:url("bcf3722e-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_14 {
+	font-size: 1em;
+	font-family: "CSPRDA+ArialMT";
+	color: #000000;
+}
+.stl_15 {
+	letter-spacing: 0.008em;
+}
+
+.stl_ie .stl_15 {
+	letter-spacing: 0.1285px;
+}
+.stl_16 {
+	letter-spacing: 0.0099em;
+}
+
+.stl_ie .stl_16 {
+	letter-spacing: 0.1585px;
+}
+.stl_17 {
+	letter-spacing: 0.0085em;
+}
+
+.stl_ie .stl_17 {
+	letter-spacing: 0.1364px;
+}
+@font-face {
+	font-family:"AWDQCJ+ArialMT";
+	src:url("0429fba9-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_18 {
+	font-size: 1em;
+	font-family: "AWDQCJ+ArialMT";
+	color: #000000;
+}
+.stl_19 {
+	letter-spacing: 0.0086em;
+}
+
+.stl_ie .stl_19 {
+	letter-spacing: 0.1369px;
+}
+.stl_20 {
+	font-size: 0.833333em;
+	font-family: "DLALPP+Arial-BoldMT";
+	color: #000000;
+}
+.stl_21 {
+	letter-spacing: 0.0098em;
+}
+
+.stl_ie .stl_21 {
+	letter-spacing: 0.1573px;
+}
+.stl_22 {
+	letter-spacing: -0.0001em;
+}
+
+.stl_ie .stl_22 {
+	letter-spacing: -0.0017px;
+}
+@font-face {
+	font-family:"DRSGLP+Arial-ItalicMT";
+	src:url("c96c1de6-0002-0000-0000-000000000000.woff") format("woff");
+}
+.stl_23 {
+	font-size: 1em;
+	font-family: "DRSGLP+Arial-ItalicMT";
+	color: #000000;
+}
+.stl_24 {
+	letter-spacing: -0.0002em;
+}
+
+.stl_ie .stl_24 {
+	letter-spacing: -0.0024px;
+}
+.stl_25 {
+	letter-spacing: -0.0016em;
+}
+
+.stl_ie .stl_25 {
+	letter-spacing: -0.0259px;
+}
+.stl_26 {
+	letter-spacing: 0.0199em;
+}
+
+.stl_ie .stl_26 {
+	letter-spacing: 0.3185px;
+}
+.stl_27 {
+	letter-spacing: 0.0161em;
+}
+
+.stl_ie .stl_27 {
+	letter-spacing: 0.2571px;
+}
+.stl_28 {
+	font-size: 0.833333em;
+	font-family: "DLALPP+Arial-BoldMT";
+	color: #010101;
+}
+.stl_29 {
+	letter-spacing: 0.0068em;
+}
+
+.stl_ie .stl_29 {
+	letter-spacing: 0.1083px;
+}
+.stl_30 {
+	letter-spacing: 0.0034em;
+}
+
+.stl_ie .stl_30 {
+	letter-spacing: 0.0548px;
+}
+.stl_31 {
+	letter-spacing: -0.0058em;
+}
+
+.stl_ie .stl_31 {
+	letter-spacing: -0.0922px;
+}
+.stl_32 {
+	font-size: 0.916667em;
+	font-family: "DLALPP+Arial-BoldMT";
+	color: #000000;
+}
+@font-face {
+	font-family:"FWFBCO+MinionPro-Regular";
+	src:url("8470b354-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_33 {
+	font-size: 0.5em;
+	font-family: "FWFBCO+MinionPro-Regular";
+	color: #000000;
+}
+.stl_34 {
+	line-height: 1.007em;
+}
