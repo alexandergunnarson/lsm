@@ -4,6 +4,8 @@
                            lsm.preInit = function () {
                              let maxPageNumber = 505;
 
+                             lsm.pageNumber = 1;
+
                              lsm.previousPage = function () {
                                if (lsm.pageNumber > 1) {
                                  lsm.renderPage(lsm.pageNumber - 1);
