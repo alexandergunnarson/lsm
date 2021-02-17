@@ -71,6 +71,10 @@
                                  pageView.appendChild(node);
                                };
                              };
+
+                             if (! isPageNumberSet) {
+                               lsm.goToPage(1);
+                             }
                            };
 
                            lsm.postInit = function () {
