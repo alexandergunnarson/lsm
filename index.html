@@ -4,16 +4,25 @@
                            lsm.preInit = function () {
                              let maxPageNumber = 505;
 
-                             let urlParams = new URLSearchParams(window.location.search);
+                             // let urlParams = new URLSearchParams(window.location.search);
 
-                             let pageNumberStrOrig = urlParams.get('page');
+                             // let pageNumberStrOrig = urlParams.get('page');
 
-                             let isPageNumberSet = pageNumberStrOrig != '' &&
-                                                   pageNumberStrOrig != undefined;
+                             // let isPageNumberSet = pageNumberStrOrig != '' &&
+                             //                       pageNumberStrOrig != undefined;
 
-                             let pageNumberStr = isPageNumberSet ? pageNumberStrOrig : '1';
+                             // let pageNumberStr = isPageNumberSet ? pageNumberStrOrig : '1';
 
-                             lsm.pageNumber = Number.parseInt(pageNumberStr);
+                             // lsm.pageNumber = Number.parseInt(pageNumberStr);
+                             lsm.pageNumber = 1;
+
+                             lsm.isInIframe = function () {
+                               try {
+                                 return window.self !== window.top;
+                               } catch (e) {
+                                 return true;
+                               }
+                             };
 
                              lsm.previousPage = function () {
                                if (lsm.pageNumber > 1) {
@@ -45,10 +54,6 @@
                                return new DOMParser().parseFromString(htmlString, 'text/html');
                              };
 
-                             lsm.goToPage = function (pageNumber) {
-                               window.location = 'https://translate.google.com/translate?sl=es&tl=en&u=https://alexandergunnarson.github.io/lsm/?page=' + pageNumber ;
-                             }
-
                              lsm.renderPage = async function (pageNumber) {
                                let dom = await lsm.urlStringToDom('https://alexandergunnarson.github.io/lsm/page-' + pageNumber + '.html');
 
@@ -72,8 +77,10 @@
                                };
                              };
 
-                             if (! isPageNumberSet) {
-                               lsm.goToPage(1);
+                             let isBeingTranslated = lsm.isInIframe();
+
+                             if (! isBeingTranslated) {
+                               window.location = 'https://translate.google.com/translate?sl=es&tl=en&u=https://alexandergunnarson.github.io/lsm/';
                              }
                            };
 
