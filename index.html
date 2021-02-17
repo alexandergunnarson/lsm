@@ -4,26 +4,6 @@
                            lsm.preInit = function () {
                              let maxPageNumber = 505;
 
-                             // let urlParams = new URLSearchParams(window.location.search);
-
-                             // let pageNumberStrOrig = urlParams.get('page');
-
-                             // let isPageNumberSet = pageNumberStrOrig != '' &&
-                             //                       pageNumberStrOrig != undefined;
-
-                             // let pageNumberStr = isPageNumberSet ? pageNumberStrOrig : '1';
-
-                             // lsm.pageNumber = Number.parseInt(pageNumberStr);
-                             lsm.pageNumber = 1;
-
-                             lsm.isInIframe = function () {
-                               try {
-                                 return window.self !== window.top;
-                               } catch (e) {
-                                 return true;
-                               }
-                             };
-
                              lsm.previousPage = function () {
                                if (lsm.pageNumber > 1) {
                                  lsm.renderPage(lsm.pageNumber - 1);
@@ -77,10 +57,10 @@
                                };
                              };
 
-                             let isBeingTranslated = lsm.isInIframe();
+                             let isBeingTranslated = new URLSearchParams(window.location.search).get('translating') === 'true';
 
                              if (! isBeingTranslated) {
-                               window.location = 'https://translate.google.com/translate?sl=es&tl=en&u=https://alexandergunnarson.github.io/lsm/';
+                               window.location = 'https://translate.google.com/translate?sl=es&tl=en&u=https://alexandergunnarson.github.io/lsm/?translating=true';
                              }
                            };
 
