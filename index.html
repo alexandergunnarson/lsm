@@ -17,13 +17,13 @@
 
                              lsm.previousPage = function () {
                                if (lsm.pageNumber > 1) {
-                                 lsm.goToPage(lsm.pageNumber - 1);
+                                 lsm.renderPage(lsm.pageNumber - 1);
                                }
                              };
 
                              lsm.nextPage = function () {
                                if (lsm.pageNumber < maxPageNumber) {
-                                 lsm.goToPage(lsm.pageNumber + 1);
+                                 lsm.renderPage(lsm.pageNumber + 1);
                                }
                              };
 
@@ -86,7 +86,7 @@
                              pageInput.value = lsm.pageNumber + '';
                              pageInput.addEventListener('keyup', (event) => {
                                if (event.key === 'Enter') {
-                                 lsm.goToPage(Number.parseInt(event.target.value))
+                                 lsm.renderPage(Number.parseInt(event.target.value))
                                }
                              });
 
